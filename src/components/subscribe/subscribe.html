@@ -1,0 +1,53 @@
+<section class="subscribe">
+  <h1 class="title">Subscribe Us</h1>
+
+  <form
+      name="subscribeCtrl.userForm"
+      novalidate
+      ng-submit="subscribeCtrl.submit()"
+    class="subscribe-form">
+
+
+    <p ng-if="subscribeCtrl.error" class="notification error">
+      {{subscribeCtrl.error}}
+    </p>
+
+    <p ng-if="subscribeCtrl.ok" class="notification success">
+      You successfully subscribe us!
+    </p>
+
+    <input type="text"
+           name="name"
+           class="subscribe-form__text"
+           placeholder="Your Name"
+           required
+           ng-model="subscribeCtrl.user.name"
+           minlength="3">
+
+    <input type="email"
+           ng-model="subscribeCtrl.user.email"
+           name="email"
+           class="subscribe-form__text"
+           placeholder="Your Email"
+           required>
+
+    <label class="subscribe-form__checkbox-title">
+      Do You want to help us be better?
+      <input type="checkbox"
+             id="subs"
+             ng-model="subscribeCtrl.user.checkbox"
+             class="subscribe-form__checkbox">
+    </label>
+
+    <input type="text"
+           class="subscribe-form__text"
+           placeholder="Your Comment"
+           ng-model="subscribeCtrl.user.comment"
+           ng-required="subscribeCtrl.user.checkbox"
+           ng-disabled="!subscribeCtrl.user.checkbox">
+
+    <input type="submit"
+           class="subscribe-form__button"
+           value="subscribe">
+  </form>
+</section>

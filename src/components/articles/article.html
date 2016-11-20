@@ -1,0 +1,10 @@
+<h1 class="title">Our Articles</h1>
+<div class="articles">
+  <div class="article" ng-repeat="article in articleCtrl.article">
+    <img ng-src="{{::article.thumbnail}}" src="" alt="" class="article__image">
+    <h2 class="article__title">{{::article.title}}</h2>
+    <p class="article__date">{{::article.pubDate | date:'fullDate'}}</p>
+    <p class="article__description">{{::article.description}}</p>
+    <a ng-href="{{::article.link}}" href="" class="article__button">Read more</a>
+  </div>
+</div>

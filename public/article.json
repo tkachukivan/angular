@@ -1,0 +1,292 @@
+{
+  "status": "ok",
+  "feed": {
+    "title": "BBC News - Technology",
+    "link": "http:\/\/www.bbc.co.uk\/news\/",
+    "author": "",
+    "description": "BBC News - Technology",
+    "image": "http:\/\/news.bbcimg.co.uk\/nol\/shared\/img\/bbc_news_120x60.gif"
+  },
+  "items": [
+    {
+      "title": "Facebook paid \u00a34.1m in UK tax last year",
+      "link": "http:\/\/www.bbc.co.uk\/news\/business-37600891",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/business-37600891",
+      "pubDate": "Sun, 09 Oct 2016 20:16:07 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/10170\/production\/_91740956_gettyimages-512017378.jpg",
+      "description": "Facebook says it paid \u00a34.16m in corporation tax in the UK last year, a sharp increase on the previous year, when there was an outcry at how little it had paid.",
+      "content": "Facebook says it paid \u00a34.16m in corporation tax in the UK last year, a sharp increase on the previous year, when there was an outcry at how little it had paid.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/10170\/production\/_91740956_gettyimages-512017378.jpg"
+      }
+    },
+    {
+      "title": "Samsung Galaxy Note 7: Second 'safe' replacement catches fire",
+      "link": "http:\/\/www.bbc.co.uk\/news\/world-us-canada-37600014",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/world-us-canada-37600014",
+      "pubDate": "Sun, 09 Oct 2016 10:36:46 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/1B3D\/production\/_91537960_whatsubject.jpg",
+      "description": "A second replacement Samsung Galaxy Note 7 device has caught fire, US media report, following a mass recall of the phones in September.",
+      "content": "A second replacement Samsung Galaxy Note 7 device has caught fire, US media report, following a mass recall of the phones in September.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/1B3D\/production\/_91537960_whatsubject.jpg"
+      }
+    },
+    {
+      "title": "CEO Secrets: Shazam boss Rich Riley on success secrets",
+      "link": "http:\/\/www.bbc.co.uk\/news\/business-37565947",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/business-37565947",
+      "pubDate": "Sat, 08 Oct 2016 23:13:16 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/13B49\/production\/_91531708_shazam3.jpg",
+      "description": "Rich Riley, chief executive of Shazam, offers the business advice he wishes he had been given when he started out.",
+      "content": "Rich Riley, chief executive of Shazam, offers the business advice he wishes he had been given when he started out.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/13B49\/production\/_91531708_shazam3.jpg"
+      }
+    },
+    {
+      "title": "Digital daughter",
+      "link": "http:\/\/www.bbc.co.uk\/news\/world-asia-37548733",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/world-asia-37548733",
+      "pubDate": "Sat, 08 Oct 2016 00:07:44 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/0316\/production\/_91509700_saya2016ver_telyuka_2016-09-09.png",
+      "description": "Saya, the hyper-realistic computer-generated digital schoolgirl, created huge waves when she first emerged last year, but her \"parents\" say they have grand ambitions for her future.",
+      "content": "Saya, the hyper-realistic computer-generated digital schoolgirl, created huge waves when she first emerged last year, but her \"parents\" say they have grand ambitions for her future.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/0316\/production\/_91509700_saya2016ver_telyuka_2016-09-09.png"
+      }
+    },
+    {
+      "title": "Plotting success",
+      "link": "http:\/\/www.bbc.co.uk\/news\/business-37494653",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/business-37494653",
+      "pubDate": "Fri, 07 Oct 2016 20:39:03 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/15810\/production\/_91408088_google2.jpg",
+      "description": "There are three main issues the UK needs to address if it is going to build a technology company on the scale of Google, according to a group of entrepreneurs.",
+      "content": "There are three main issues the UK needs to address if it is going to build a technology company on the scale of Google, according to a group of entrepreneurs.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/15810\/production\/_91408088_google2.jpg"
+      }
+    },
+    {
+      "title": "Backpage website head Carl Ferrer faces sex charges",
+      "link": "http:\/\/www.bbc.co.uk\/news\/technology-37585327",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/technology-37585327",
+      "pubDate": "Fri, 07 Oct 2016 17:21:48 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/4D82\/production\/_91624891_gettyimages-71764507.jpg",
+      "description": "Carl Ferrer, head of small ads website Backpage.com has been arrested on charges of pimping, says the California Attorney General.",
+      "content": "Carl Ferrer, head of small ads website Backpage.com has been arrested on charges of pimping, says the California Attorney General.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/4D82\/production\/_91624891_gettyimages-71764507.jpg"
+      }
+    },
+    {
+      "title": "Credit card with fraud-busting display",
+      "link": "http:\/\/www.bbc.co.uk\/news\/technology-37585247",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/technology-37585247",
+      "pubDate": "Fri, 07 Oct 2016 15:00:27 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/15A38\/production\/_91623688_motioncode.gif",
+      "description": "A credit card with an ever-changing security code is being launched in France and may also come to the UK.",
+      "content": "A credit card with an ever-changing security code is being launched in France and may also come to the UK.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/15A38\/production\/_91623688_motioncode.gif"
+      }
+    },
+    {
+      "title": "Lady Gaga: Clips from new album 'leak' on Amazon",
+      "link": "http:\/\/www.bbc.co.uk\/news\/entertainment-arts-37587846",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/entertainment-arts-37587846",
+      "pubDate": "Fri, 07 Oct 2016 13:18:59 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/4777\/production\/_91559281_37a35ee2-a247-413e-b07e-06404bbeede8.jpg",
+      "description": "Snippets of Lady Gaga's new album have been shared online after fans \"tricked\" the Amazon's virtual assistant into playing preview clips.",
+      "content": "Snippets of Lady Gaga's new album have been shared online after fans \"tricked\" the Amazon's virtual assistant into playing preview clips.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/4777\/production\/_91559281_37a35ee2-a247-413e-b07e-06404bbeede8.jpg"
+      }
+    },
+    {
+      "title": "Pokemon Go is making it easier to catch rare characters",
+      "link": "http:\/\/www.bbc.co.uk\/newsbeat\/articles\/37584917",
+      "guid": "http:\/\/www.bbc.co.uk\/newsbeat\/articles\/37584917",
+      "pubDate": "Fri, 07 Oct 2016 09:36:52 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/16CBF\/production\/_91557339_pokemon_hand_gettyimages-594364740.jpg",
+      "description": "Pokemon Go is trying to lure back players by making it easier to catch rare Pokemon characters.",
+      "content": "Pokemon Go is trying to lure back players by making it easier to catch rare Pokemon characters.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/16CBF\/production\/_91557339_pokemon_hand_gettyimages-594364740.jpg"
+      }
+    },
+    {
+      "title": "Twitter shares plunge by a fifth",
+      "link": "http:\/\/www.bbc.co.uk\/news\/business-37581720",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/business-37581720",
+      "pubDate": "Fri, 07 Oct 2016 03:03:34 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/66DF\/production\/_91553362_twittergetty.jpg",
+      "description": "Shares in social media website Twitter plunge by a fifth on Thursday amid worries about a lack of takeover interest.",
+      "content": "Shares in social media website Twitter plunge by a fifth on Thursday amid worries about a lack of takeover interest.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/66DF\/production\/_91553362_twittergetty.jpg"
+      }
+    },
+    {
+      "title": "How the street light got a hi-tech makeover",
+      "link": "http:\/\/www.bbc.co.uk\/news\/business-37522674",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/business-37522674",
+      "pubDate": "Thu, 06 Oct 2016 23:02:54 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/news.bbcimg.co.uk\/media\/images\/81841000\/jpg\/_81841906_81839815.jpg",
+      "description": "Next time you're out after dark, spare a thought for the humble street light - because it's not so humble anymore.",
+      "content": "Next time you're out after dark, spare a thought for the humble street light - because it's not so humble anymore.",
+      "enclosure": {
+        "thumbnail": "http:\/\/news.bbcimg.co.uk\/media\/images\/81841000\/jpg\/_81841906_81839815.jpg"
+      }
+    },
+    {
+      "title": "Valve ordered to tackle 'skin betting'",
+      "link": "http:\/\/www.bbc.co.uk\/news\/technology-37573818",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/technology-37573818",
+      "pubDate": "Thu, 06 Oct 2016 15:23:45 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/66E8\/production\/_91544362_gunz.png",
+      "description": "Video game studio Valve is ordered by the Washington State Gambling Commission (WSGC) to take action on unlicensed betting websites.",
+      "content": "Video game studio Valve is ordered by the Washington State Gambling Commission (WSGC) to take action on unlicensed betting websites.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/66E8\/production\/_91544362_gunz.png"
+      }
+    },
+    {
+      "title": "Spotify ads 'launched virus pop-ups'",
+      "link": "http:\/\/www.bbc.co.uk\/news\/technology-37573815",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/technology-37573815",
+      "pubDate": "Thu, 06 Oct 2016 12:11:05 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/17470\/production\/_91544359_gettyimages.jpg",
+      "description": "Spotify says it has fixed a problem in its software that let advertisements automatically open virus-infected websites on a victim's device.",
+      "content": "Spotify says it has fixed a problem in its software that let advertisements automatically open virus-infected websites on a victim's device.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/17470\/production\/_91544359_gettyimages.jpg"
+      }
+    },
+    {
+      "title": "Hack warnings prompt cyber 'security fatigue'",
+      "link": "http:\/\/www.bbc.co.uk\/news\/technology-37573795",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/technology-37573795",
+      "pubDate": "Thu, 06 Oct 2016 12:03:33 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/5A0E\/production\/_91545032_mediaitem91545031.jpg",
+      "description": "Endless warnings have given people \"security fatigue\" that stops them keeping their devices safe, suggests a study.",
+      "content": "Endless warnings have given people \"security fatigue\" that stops them keeping their devices safe, suggests a study.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/5A0E\/production\/_91545032_mediaitem91545031.jpg"
+      }
+    },
+    {
+      "title": "Yahoo 'scanned emails to help FBI hunt terrorists'",
+      "link": "http:\/\/www.bbc.co.uk\/news\/technology-37574648",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/technology-37574648",
+      "pubDate": "Thu, 06 Oct 2016 11:56:02 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/D6A0\/production\/_91544945_mediaitem91544944.jpg",
+      "description": "Yahoo was ordered to scan users' emails to help the FBI hunt terrorists, reports the New York Times.",
+      "content": "Yahoo was ordered to scan users' emails to help the FBI hunt terrorists, reports the New York Times.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/D6A0\/production\/_91544945_mediaitem91544944.jpg"
+      }
+    },
+    {
+      "title": "NSA government contractor 'stole classified files'",
+      "link": "http:\/\/www.bbc.co.uk\/news\/world-us-canada-37568879",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/world-us-canada-37568879",
+      "pubDate": "Thu, 06 Oct 2016 11:50:21 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/9C12\/production\/_91545993_hi035715965.jpg",
+      "description": "A National Security Agency contractor is accused of stealing top secret files that could have caused \"exceptionally grave damage to national security\".",
+      "content": "A National Security Agency contractor is accused of stealing top secret files that could have caused \"exceptionally grave damage to national security\".",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/9C12\/production\/_91545993_hi035715965.jpg"
+      }
+    },
+    {
+      "title": "Why this solar panel could be the next big energy player",
+      "link": "http:\/\/www.bbc.co.uk\/news\/technology-37553532",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/technology-37553532",
+      "pubDate": "Thu, 06 Oct 2016 07:25:52 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/16B7B\/production\/_91515039_p049yc4y.jpg",
+      "description": "Researchers in Switzerland are looking to develop a solar panel that can push out twice the energy of existing standard roof panels",
+      "content": "Researchers in Switzerland are looking to develop a solar panel that can push out twice the energy of existing standard roof panels",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/16B7B\/production\/_91515039_p049yc4y.jpg"
+      }
+    },
+    {
+      "title": "Jetpack pilot in flight across Royal Docks",
+      "link": "http:\/\/www.bbc.co.uk\/news\/technology-37571844",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/technology-37571844",
+      "pubDate": "Thu, 06 Oct 2016 06:36:34 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/1812C\/production\/_91540689_p04b41nx.jpg",
+      "description": "A former commercial pilot, hoping to raise funds to develop an electric jetpack, has been showing how humans really can fly.",
+      "content": "A former commercial pilot, hoping to raise funds to develop an electric jetpack, has been showing how humans really can fly.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/1812C\/production\/_91540689_p04b41nx.jpg"
+      }
+    },
+    {
+      "title": "Fujitsu shares jump on takeover rumours",
+      "link": "http:\/\/www.bbc.co.uk\/news\/37570845",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/37570845",
+      "pubDate": "Thu, 06 Oct 2016 04:46:02 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/E942\/production\/_91541795_mediaitem91541794.jpg",
+      "description": "Shares in Japanese electronics company Fujitsu jump more than 7% on media reports it will sell its computer business to Chinese firm Lenovo.",
+      "content": "Shares in Japanese electronics company Fujitsu jump more than 7% on media reports it will sell its computer business to Chinese firm Lenovo.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/E942\/production\/_91541795_mediaitem91541794.jpg"
+      }
+    },
+    {
+      "title": "Samsung takes over AI pioneer and creators of Apple's Siri",
+      "link": "http:\/\/www.bbc.co.uk\/news\/business-37570663",
+      "guid": "http:\/\/www.bbc.co.uk\/news\/business-37570663",
+      "pubDate": "Thu, 06 Oct 2016 01:25:59 GMT",
+      "categories": [],
+      "author": "",
+      "thumbnail": "http:\/\/c.files.bbci.co.uk\/142A1\/production\/_91539528_samsungafp-486305420.jpg",
+      "description": "Smartphone giant Samsung steps up its focus on artificial intelligence (AI) by taking over Viv, a new digital assistant developed by the creators of Apple's Siri.",
+      "content": "Smartphone giant Samsung steps up its focus on artificial intelligence (AI) by taking over Viv, a new digital assistant developed by the creators of Apple's Siri.",
+      "enclosure": {
+        "thumbnail": "http:\/\/c.files.bbci.co.uk\/142A1\/production\/_91539528_samsungafp-486305420.jpg"
+      }
+    }
+  ]
+}

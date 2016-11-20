@@ -1,0 +1,259 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain) */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.pages {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  align-items: center; }
+  .pages__title {
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 50px; }
+  .pages-list {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    border: 10px solid #333;
+    border-radius: 10px; }
+    .pages-list__item {
+      display: block;
+      margin: 60px 0;
+      padding: 30px;
+      font-family: Impact;
+      font-size: 25px;
+      text-align: center;
+      text-decoration: none;
+      color: black;
+      border: 3px solid #333;
+      border-radius: 5px;
+      transition: all 0.4s ease; }
+    .pages-list__item:hover {
+      transform: scale(1.2); }
+
+.title {
+  margin: 20px 0;
+  font-size: 40px;
+  font-family: "Trebuchet MS";
+  font-weight: bold;
+  text-align: center; }
+
+.articles {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  flex-wrap: wrap;
+  justify-content: space-around; }
+
+.article {
+  position: relative;
+  width: 300px;
+  margin: 10px;
+  padding: 10px 10px 50px 10px;
+  border: 2px solid #333;
+  border-radius: 3px; }
+  .article__image {
+    display: block;
+    width: 300px;
+    height: 300px;
+    max-width: 100%;
+    margin-right: 10px;
+    margin-bottom: 10px; }
+  .article__title {
+    margin-bottom: 10px;
+    font-family: Impact;
+    font-size: 20px; }
+  .article__date {
+    font-size: 12px;
+    color: #6b6b6b;
+    margin-bottom: 10px; }
+  .article__description {
+    font-size: 15px;
+    text-align: justify; }
+  .article__button {
+    display: block;
+    width: 300px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    margin: 5px 0;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    border: 2px solid #333;
+    border-radius: 4px;
+    transition: all 0.5s ease; }
+    .article__button:hover {
+      background: #333;
+      color: white; }
+
+.subscribe {
+  width: 60%;
+  margin: auto; }
+  .subscribe-form {
+    padding: 20px;
+    border: 5px solid #333;
+    border-radius: 5px; }
+    .subscribe-form__text {
+      display: block;
+      width: 90%;
+      height: 30px;
+      margin: 20px auto;
+      padding: 5px;
+      border: 2px solid #aaa;
+      border-radius: 3px; }
+      .subscribe-form__text:focus {
+        border: 2px solid #333;
+        outline: none; }
+      .subscribe-form__text:disabled {
+        background: #ddd; }
+    .subscribe-form__checkbox-title {
+      display: block;
+      width: 90%;
+      margin: 20px auto;
+      font-family: "Trebuchet MS";
+      text-align: center; }
+    .subscribe-form__checkbox {
+      display: inline-block;
+      vertical-align: middle; }
+    .subscribe-form__button {
+      width: 80%;
+      display: block;
+      margin: 20px auto;
+      padding: 20px;
+      font-family: Impact;
+      font-size: 25px;
+      text-transform: uppercase;
+      border: 3px solid #333;
+      border-radius: 5px;
+      background: white;
+      transition: all 0.4s ease; }
+      .subscribe-form__button:hover {
+        background: #333;
+        color: white; }
+
+.ng-submitted .ng-invalid {
+  border: 2px solid red; }
+
+.notification {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px; }
+  .notification.error {
+    color: #b30000;
+    background: #ffaca9; }
+  .notification.success {
+    color: #005c00;
+    background: #8ceca3; }
+
+.about {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+  .about__title {
+    margin: 40px 0;
+    font-family: "Trebuchet MS";
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase; }
+    .about__title_discription {
+      font-size: 30px;
+      margin: 20px 0; }
+  .about__photo {
+    width: 600px;
+    height: 300px;
+    margin: 20px auto;
+    background: url(/assets/about.jpg) no-repeat;
+    background-size: cover;
+    border-radius: 50%/30%; }
+  .about__description {
+    margin-bottom: 20px;
+    text-indent: 20px;
+    text-align: justify; }
+  .about__subscribe {
+    display: block;
+    width: 300px;
+    margin: 30px auto;
+    padding: 10px;
+    font-family: Impact;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    border: 3px solid #333;
+    border-radius: 5px;
+    transition: all 0.3s ease; }
+    .about__subscribe:hover {
+      transform: scale(1.1); }
+
+.home {
+  position: absolute;
+  display: block;
+  width: 64px;
+  height: 64px;
+  top: 20px;
+  left: 50px;
+  background: url(/assets/home.png) no-repeat;
+  background-size: contain;
+  transition: all 0.5s ease; }
+  .home:hover {
+    transform: scale(1.2); }

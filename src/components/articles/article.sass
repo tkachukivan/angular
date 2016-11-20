@@ -1,0 +1,63 @@
+.title
+  margin: 20px 0
+  font-size: 40px
+  font-family: "Trebuchet MS"
+  font-weight: bold
+  text-align: center
+
+.articles
+  display: flex
+  width: 80%
+  margin: auto
+  flex-wrap: wrap
+  justify-content: space-around
+
+.article
+  position: relative
+  width: 300px
+  margin: 10px
+  padding: 10px 10px 50px 10px
+  border: 2px solid #333
+  border-radius: 3px
+
+  &__image
+    display: block
+    width: 300px
+    height: 300px
+    max-width: 100%
+    margin-right: 10px
+    margin-bottom: 10px
+
+
+  &__title
+    margin-bottom: 10px
+    font-family: Impact
+    font-size: 20px
+      
+  &__date
+    font-size: 12px
+    color: #6b6b6b
+    margin-bottom: 10px
+
+  &__description
+    font-size: 15px
+    text-align: justify
+
+  &__button
+    display: block
+    width: 300px
+    box-sizing: border-box
+    position: absolute
+    bottom: 0
+    margin: 5px 0
+    padding: 10px
+    text-align: center
+    text-decoration: none
+    color: #333
+    border: 2px solid #333
+    border-radius: 4px
+    transition: all 0.5s ease
+
+    &:hover
+      background: #333
+      color: white
